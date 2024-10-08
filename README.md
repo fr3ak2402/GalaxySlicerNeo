@@ -1,8 +1,8 @@
 ![GalaxySlicerNeo_github_readme](https://github.com/user-attachments/assets/71c9d4d5-ca85-4500-9bed-8fc0887a3ce2)
 -------------------------------------
-[![GitHub license](https://img.shields.io/github/license/Fr3ak2402/GalaxySlicer_neo?style=flat-square&label=License&color=693A71)](https://github.com/fr3ak2402/GalaxySlicer_neo/blob/main/LICENSE.txt)
-[![GitHub release (with filter)](https://img.shields.io/github/v/release/fr3ak2402/GalaxySlicer_neo?style=flat-square&label=Version&color=693A71)](https://github.com/fr3ak2402/GalaxySlicer_neo/releases/latest)
-[![GitHub release downloads (latest)](https://img.shields.io/github/downloads/Fr3ak2402/GalaxySlicer_neo/latest/total?style=flat-square&label=Downloads&color=%23693A71)](https://github.com/fr3ak2402/GalaxySlicer_neo/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/Fr3ak2402/GalaxySlicerNeo?style=flat-square&label=License&color=693A71)](https://github.com/fr3ak2402/GalaxySlicerNeo/blob/main/LICENSE.txt)
+[![GitHub release (with filter)](https://img.shields.io/github/v/release/fr3ak2402/GalaxySlicerNeo?style=flat-square&label=Version&color=693A71)](https://github.com/fr3ak2402/GalaxySlicerNeo/releases/latest)
+[![GitHub release downloads (latest)](https://img.shields.io/github/downloads/Fr3ak2402/GalaxySlicerNeo/latest/total?style=flat-square&label=Downloads&color=%23693A71)](https://github.com/fr3ak2402/GalaxySlicerNeo/releases/latest)
 -------------------------------------
 The GalaxySlicer neo is a further development of the GalaxySlicer, which contains the functions of the GalaxySlicer and is based on the Bambi Studio.
 
