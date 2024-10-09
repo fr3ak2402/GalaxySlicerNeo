@@ -22,7 +22,7 @@ _Support for other operating systems will follow in later releases._
 
 # License
 
-GalaxySlicer neo is licensed under the GNU Affero General Public License, version 3. Orca Slicer is based on Bambu Studio by BambuLab.
+GalaxySlicer neo is licensed under the GNU Affero General Public License, version 3. GalaxySlicer neo is based on Bambu Studio by BambuLab.
 
 Bambu Studio is licensed under the GNU Affero General Public License, version 3. Bambu Studio is based on PrusaSlicer by PrusaResearch.
 
