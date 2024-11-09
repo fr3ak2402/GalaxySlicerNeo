@@ -6,7 +6,7 @@
 -------------------------------------
 The GalaxySlicer neo is a further development of the GalaxySlicer, which contains the functions of the GalaxySlicer and is based on the Bambi Studio.
 
-GalaxySlicer neo is based on **[Bambu Studio](https://github.com/bambulab/BambuStudio)** by BambuLab. Bambu Studio is based on **[PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)** by Prusa Research, which emerged from **[Slic3r](https://github.com/Slic3r/Slic3r)** by Alessandro Ranellucci and the RepRap community. Orca Slicer incorporates a lot of features from **[Super Slicer](https://github.com/supermerill/SuperSlicer)** by supermerill
+GalaxySlicer neo is based on **[Bambu Studio](https://github.com/bambulab/BambuStudio)** by BambuLab. Bambu Studio is based on **[PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)** by Prusa Research, which emerged from **[Slic3r](https://github.com/Slic3r/Slic3r)** by Alessandro Ranellucci and the RepRap community.
 
 **Note: Some GalaxySlicer functions will be added in later releases.**
 
