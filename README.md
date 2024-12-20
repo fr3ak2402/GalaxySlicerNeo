@@ -26,6 +26,8 @@ A nightly build of GalaxySlicerNeo is uploaded every day. The releases file of t
 
 **Note: If no changes are made to the development of the slicer within 24 hours, the nightly build will be suspended for the day.**
 
+A nightly build will automatically start at 12:00am UK time. The build should be complete and available at around 2:00am UK time. Depending on the capacity of Github, the builds may be available with a delay.
+
 # License
 
 GalaxySlicer neo is licensed under the GNU Affero General Public License, version 3. GalaxySlicer neo is based on Bambu Studio by BambuLab.
