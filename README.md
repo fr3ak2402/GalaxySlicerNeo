@@ -20,6 +20,12 @@ GalaxySlicer neo has been tested under the following operating systems so that f
 
 _Support for other operating systems will follow in later releases._
 
+# Nightly builds
+
+A nightly build of GalaxySlicerNeo is uploaded every day. The releases file of the nightly build is always replaced by a new build of the slicer, so for each version of the slicer there is only one nightly release among the releases. The builds can be found under the following link: **[Nightly releases](https://github.com/fr3ak2402/GalaxySlicerNeo/tags)**
+
+**Note: If no changes are made to the development of the slicer within 24 hours, the nightly build will be suspended for the day.**
+
 # License
 
 GalaxySlicer neo is licensed under the GNU Affero General Public License, version 3. GalaxySlicer neo is based on Bambu Studio by BambuLab.
