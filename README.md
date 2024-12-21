@@ -23,7 +23,7 @@ _Support for other operating systems will follow in later releases._
 # Nightly builds
 
 A nightly build of GalaxySlicerNeo is uploaded every day. The releases file of the nightly build is always replaced by a new build of the slicer, so for each version of the slicer there is only one nightly release among the releases. 
-The last build can be found under the following link: **[Nightly release](${RELEASE_URL})**
+The last build can be found under the following link: **[Nightly release](https://github.com/fr3ak2402/GalaxySlicerNeo/releases/tag/V1.0.6-nightly)**
 
 **Note: If no changes are made to the development of the slicer within 24 hours, the nightly build will be suspended for the day.**
 
