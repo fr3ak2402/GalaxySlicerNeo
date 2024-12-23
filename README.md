@@ -3,6 +3,7 @@
 [![GitHub license](https://img.shields.io/github/license/Fr3ak2402/GalaxySlicerNeo?style=flat-square&label=License&color=693A71)](https://github.com/fr3ak2402/GalaxySlicerNeo/blob/main/LICENSE.txt)
 [![GitHub release (with filter)](https://img.shields.io/github/v/release/fr3ak2402/GalaxySlicerNeo?style=flat-square&label=Version&color=693A71)](https://github.com/fr3ak2402/GalaxySlicerNeo/releases/latest)
 [![GitHub release downloads (latest)](https://img.shields.io/github/downloads/Fr3ak2402/GalaxySlicerNeo/latest/total?style=flat-square&label=Downloads&color=%23693A71)](https://github.com/fr3ak2402/GalaxySlicerNeo/releases/latest)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/fr3ak2402/BambuStudio/build_nightly.yml?style=flat-square&label=Nightly%20Build&color=%23693A71)](https://github.com/fr3ak2402/GalaxySlicerNeo/releases/tag/V1.0.7-nightly)
 -------------------------------------
 The GalaxySlicer neo is a further development of the GalaxySlicer, which contains the functions of the GalaxySlicer and is based on the Bambi Studio.
 
