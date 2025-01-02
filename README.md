@@ -3,7 +3,7 @@
 [![GitHub license](https://img.shields.io/github/license/Fr3ak2402/GalaxySlicerNeo?style=flat-square&label=License&color=693A71)](https://github.com/fr3ak2402/GalaxySlicerNeo/blob/main/LICENSE.txt)
 [![GitHub release (with filter)](https://img.shields.io/github/v/release/fr3ak2402/GalaxySlicerNeo?style=flat-square&label=Version&color=693A71)](https://github.com/fr3ak2402/GalaxySlicerNeo/releases/latest)
 [![GitHub release downloads (latest)](https://img.shields.io/github/downloads/Fr3ak2402/GalaxySlicerNeo/latest/total?style=flat-square&label=Downloads&color=%23693A71)](https://github.com/fr3ak2402/GalaxySlicerNeo/releases/latest)
-[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/fr3ak2402/BambuStudio/build_nightly.yml?style=flat-square&label=Nightly%20Build&color=%23693A71)](https://github.com/fr3ak2402/GalaxySlicerNeo/releases/tag/V1.0.8-nightly)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/fr3ak2402/BambuStudio/build_nightly.yml?style=flat-square&label=Nightly%20Build&color=%23693A71)](https://github.com/fr3ak2402/GalaxySlicerNeo/releases/tag/V1.1.0-nightly)
 -------------------------------------
 The GalaxySlicer neo is a further development of the GalaxySlicer, which contains the functions of the GalaxySlicer and is based on the Bambi Studio.
 
@@ -24,7 +24,7 @@ _Support for other operating systems will follow in later releases._
 # Nightly builds
 
 A nightly build of GalaxySlicerNeo is uploaded every day. The releases file of the nightly build is always replaced by a new build of the slicer, so for each version of the slicer there is only one nightly release among the releases. 
-The last build can be found under the following link: **[Nightly release](https://github.com/fr3ak2402/GalaxySlicerNeo/releases/tag/V1.0.8-nightly)**
+The last build can be found under the following link: **[Nightly release](https://github.com/fr3ak2402/GalaxySlicerNeo/releases/tag/V1.1.0-nightly)**
 
 **Note: If no changes are made to the development of the slicer within 24 hours, the nightly build will be suspended for the day.**
 
