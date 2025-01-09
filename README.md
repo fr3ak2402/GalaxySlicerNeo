@@ -12,6 +12,7 @@ GalaxySlicer neo is based on **[Bambu Studio](https://github.com/bambulab/BambuS
 **Note: Some GalaxySlicer functions will be added in later releases.**
 
 # Main features
+- Profile Manager
 
 # Supported operating systems
 
