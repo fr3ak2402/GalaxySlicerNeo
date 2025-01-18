@@ -22,7 +22,6 @@ GalaxySlicer neo has been tested under the following operating systems so that f
 ![Windows 11: x64](https://img.shields.io/badge/Windows-x64-blue?style=flat-square&logo=Windows11&label=Windows%2011&labelColor=blue&color=gray)
 ![macOS: arm64](https://img.shields.io/badge/macOS%20(Coming%20soon)-arm64%20(Apple%20silicon)-black?style=flat-square&labelColor=black&color=grey)
 
-
 _Support for other operating systems will follow in later releases._
 
 # Nightly builds
