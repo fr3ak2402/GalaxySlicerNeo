@@ -10,7 +10,8 @@ The GalaxySlicer neo is a further development of the GalaxySlicer, which contain
 
 GalaxySlicer neo is based on **[Bambu Studio](https://github.com/bambulab/BambuStudio)** by BambuLab. Bambu Studio is based on **[PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)** by Prusa Research, which emerged from **[Slic3r](https://github.com/Slic3r/Slic3r)** by Alessandro Ranellucci and the RepRap community.
 
-**Note: Some GalaxySlicer functions will be added in later releases.**
+> [!IMPORTANT]
+> _Some GalaxySlicer functions will be added in later releases._
 
 # Main features
 - Profile Manager
@@ -22,16 +23,19 @@ GalaxySlicer neo has been tested under the following operating systems so that f
 ![Windows 11: x64](https://img.shields.io/badge/Windows-x64-blue?style=flat-square&logo=Windows11&label=Windows%2011&labelColor=blue&color=gray)
 ![macOS: arm64](https://img.shields.io/badge/macOS%20(Coming%20soon)-arm64%20(Apple%20silicon)-black?style=flat-square&labelColor=black&color=grey)
 
-_Support for other operating systems will follow in later releases._
+> [!NOTE]
+> _Support for other operating systems will follow in later releases._
 
 # Nightly builds
 
 A nightly build of GalaxySlicerNeo is uploaded every day. The releases file of the nightly build is always replaced by a new build of the slicer, so for each version of the slicer there is only one nightly release among the releases. 
 The last build can be found under the following link: **[Nightly release](https://github.com/fr3ak2402/GalaxySlicerNeo/releases/tag/V1.1.3-nightly)**
 
-**Note: If no changes are made to the development of the slicer within 24 hours, the nightly build will be suspended for the day.**
+> [!NOTE]
+> _If no changes are made to the development of the slicer within 24 hours, the nightly build will be suspended for the day._
 
-A nightly build will automatically start at 12:00am UK time. The build should be complete and available at around 2:00am UK time. Depending on the capacity of Github, the builds may be available with a delay.
+> [!IMPORTANT]
+> _A nightly build will automatically start at 12:00am UK time. The build should be complete and available at around 2:00am UK time. Depending on the capacity of Github, the builds may be available with a delay._
 
 # License
 
